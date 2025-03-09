@@ -15,17 +15,6 @@ Il utilise **Python (OpenCV + MediaPipe)** pour détecter les doigts levés et *
 
 ---
 
-## 💁️‍♂️ Structure du projet  
-```
-📚 Controle_LED_Camera
-│── 📄 main.py            # Code Python (détection des doigts et communication avec Arduino)
-│── 📄 arduino_led.ino     # Code Arduino (contrôle des LED)
-│── 📄 requirements.txt    # Liste des bibliothèques Python à installer
-│── 📚 assets             # (Optionnel) Dossier pour enregistrer des images ou logs
-```
-
----
-
 ## 🛠️ Matériel requis  
 🔹 **Arduino Uno**  
 🔹 **3 LED**  
